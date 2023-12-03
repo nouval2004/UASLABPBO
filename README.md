@@ -1,5 +1,5 @@
 # UASLABPBO
-nama kelompok :
-muhammad nouval rifqi
-arif maulana
-cut mardilla
+anggota kelompok :
+- muhammad nouval rifqi
+- arif maulana
+- cut mardilla
